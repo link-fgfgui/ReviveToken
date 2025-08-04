@@ -48,6 +48,6 @@ jobs:
           name: Version ${{ github.ref_name }}
           tag_name: ${{ github.ref_name }}
           files: |
-            build/libs/build/libs/revivetoken-${{github.ref_name}}.jar
+            build/libs/revivetoken-${{github.ref_name}}.jar
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
