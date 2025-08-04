@@ -1,0 +1,5 @@
+{
+  "item.revivetoken.coin": "复活币",
+  "revivetoken.revive": "原地复活（消耗1币，共%d币）",
+  "revivetoken.revive_plural": "原地复活（消耗%d币，共%d币）"
+}

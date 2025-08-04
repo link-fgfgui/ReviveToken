@@ -1,0 +1,5 @@
+{
+  "item.revivetoken.coin": "Coin",
+  "revivetoken.revive": "Revive (Cost 1 Token, had %d)",
+  "revivetoken.revive_plural": "Revive (Cost %d Tokens, had %d)"
+}
