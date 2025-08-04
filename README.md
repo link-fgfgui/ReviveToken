@@ -59,7 +59,7 @@ gif:
 
 ## New Features
 
-- Item: Revive Token ![coin](src/main/resources/assets/revivetoken/textures/item/coin.png)  
+- Item: Coin ![coin](src/main/resources/assets/revivetoken/textures/item/coin.png)  
   ![coin in creativeTab](img/3e.png)
 - **Trades**:
   1. Librarian  
